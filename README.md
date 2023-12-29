@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moe Soliman
+- 👋 Hi, I’m @Noah Soliman
 - 👀 I’m interested in everything has to do with programming
-- 📫 Moe.soliman86@gmail.com
+- 📫 Noah.soliman@outlook.com
 
